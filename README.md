@@ -58,9 +58,8 @@ Synthesis, a Center funded by the University of California, Santa Barbara, and t
 California.
 
 <a href="https://dataone.org">
-<img src="https://user-images.githubusercontent.
-com/6643222/162324180-b5cf0f5f-ae7a-4ca6-87c3-9733a2590634.png" alt="DataONE_footer"
-  style="width:44%;padding-right:5%;">
+<img src="https://user-images.githubusercontent.com/6643222/162324180-b5cf0f5f-ae7a-4ca6-87c3-9733a2590634.png"
+alt="DataONE_footer" style="width:44%;padding-right:5%;">
 </a>
 <a href="https://www.nceas.ucsb.edu">
 <img src="https://www.nceas.ucsb.edu/sites/default/files/2020-03/NCEAS-full%20logo-4C.png"
